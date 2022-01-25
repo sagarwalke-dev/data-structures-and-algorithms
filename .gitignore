@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Compiled class file
 *.class
 bin/
@@ -33,3 +34,9 @@ bin/
 .project
 .settings/
 >>>>>>> 140582e (gitignore added)
+=======
+bin/
+.classpath
+.project
+.settings/
+>>>>>>> 140582e669de092d63aa583532c0ea9faa289b59
