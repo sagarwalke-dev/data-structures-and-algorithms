@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class file
 *.class
 bin/
@@ -26,3 +27,9 @@ bin/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+=======
+bin/
+.classpath
+.project
+.settings/
+>>>>>>> 140582e (gitignore added)
